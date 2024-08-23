@@ -7,3 +7,4 @@ read b
 echo "Hello value of a is $a and value of b is $b"
 echo "ans is"
 echo "git fetch"
+echo "12345"
