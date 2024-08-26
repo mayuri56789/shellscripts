@@ -1,1 +1,1 @@
-new script
+echo " i love devops"
